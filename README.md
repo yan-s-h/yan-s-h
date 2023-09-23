@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi, I'm Yan-Shiou!
+👋 Hi, I'm Yan!
 
 🚀 I'm a passionate Front-End Web Developer with a love for continuous learning and staying up-to-date with the latest technologies in the ever-evolving world of web development.
 
