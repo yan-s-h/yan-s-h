@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+👋 Hi, I'm Yan-Shiou!
+
+🚀 I'm a passionate Front-End Web Developer with a love for continuous learning and staying up-to-date with the latest technologies in the ever-evolving world of web development.
+
+🌱 I believe in the power of lifelong learning and strive to expand my skills and knowledge every day. Whether it's diving deep into Vue.js or exploring new libraries and frameworks, I'm always excited to learn something new.
+
+🛠️ I enjoy working on projects that challenge me and help me grow as a developer. My GitHub is a reflection of my journey, featuring a mix of personal projects, open-source contributions, and experiments.
+
+<!--💬 Let's connect and learn together! Feel free to reach out for collaboration, coding discussions, or just to share your favorite tech discoveries. You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) too.-->
+
+🎯 My goal: To keep coding, keep learning, and keep building awesome things for the web.
+
 <!--
 **yan-s-h/yan-s-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
