@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hi, I'm Yan!
+<!-- Hi, I'm Yan!
 
 🚀 I'm an aspiring Front-End Web Developer on a journey of continuous learning and growth in the dynamic world of web development.
 
@@ -12,7 +12,7 @@
 
 <!--💬 Let's connect and learn together! Feel free to reach out for collaboration, coding discussions, or just to share your favorite tech discoveries. You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) too.-->
 
-🎯 My goal: To keep coding, keep learning, and eventually secure a position as a Front-End Web Developer.
+🎯 My goal: To keep coding, keep learning, and eventually secure a position as a Front-End Web Developer.-->
 
 <!--
 **yan-s-h/yan-s-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
