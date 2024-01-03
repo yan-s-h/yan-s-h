@@ -10,7 +10,7 @@
 
 💬 I'm actively seeking opportunities to collaborate and learn from experienced developers. If you're working on an interesting project or have insights to share, please feel free to reach out.
 
-<!--💬 Let's connect and learn together! Feel free to reach out for collaboration, coding discussions, or just to share your favorite tech discoveries. You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) too.-->
+<!--💬 Let's connect and learn together! Feel free to reach out for collaboration, coding discussions, or just to share your favorite tech discoveries. You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) too.
 
 🎯 My goal: To keep coding, keep learning, and eventually secure a position as a Front-End Web Developer.-->
 
